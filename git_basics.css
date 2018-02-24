@@ -1,0 +1,113 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.wrapper{
+    border-top: solid 1px #DDDFD4;
+    padding: 0 20px;
+    margin: 10px auto;
+    width: 850px;
+}
+.container{
+    background-color: #DDDFD4;
+    padding: 10px;
+    
+}
+header{
+    background-color: #38B0AD;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+header img{
+    background-color: #38B0AD;
+    display: inline-block;
+    width: 35px;
+    width: 35px;
+}
+h2{
+    display: inline-block;
+    padding: 0;
+    vertical-align: top;
+    margin-top: 5px;
+}
+.gitquestions{
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px 0 0 110px;    
+}
+.textfont{
+    font-size: 9pt;
+    color: white;
+}
+.gitquestions a{
+    margin-left: 20px;
+}
+article{
+    background-color: #FBE691;
+    display: inline-block;
+    width: 830px;
+}
+.sidebar{
+    background-color: #153F43;
+    display: inline-block;
+    width: 215px;
+    height: 500px;
+    margin: 15px;
+}
+.sidebar h3{
+    color: white;
+    padding: 15px 10px;
+    font-weight: normal;
+}
+p{
+    line-height: 17px;
+    margin: 0 20px;
+}
+.gitboxes{
+    display: inline-block;
+    width: 560px;
+    vertical-align: top;
+}
+.gitsquares{
+    background-color: #153F43;
+    width: 150px;
+    height: 160px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 15px;
+}
+.gitboxheaders{
+    color: white;
+    margin: 10px;
+    font-weight: normal;
+}
+.gitboxes a{
+    text-decoration: none;
+    color: #3DB2A6;
+}
+.gitrectangles{
+    display: inline-block;
+    width: 245px;
+    background-color: #153F43;
+    margin: 15px;
+    height: 140px;
+}
+.gitboxfooter{
+    background-color: #153F43;
+    width: 525px;
+    margin: 15px;
+    height: 140px;
+    display: inline-block;
+}
+footer{
+    background-color: #38B0AD;
+    padding: 25px 0;
+    text-align: center;
+    font-size: .8em;
+    font-weight: bold;
+    margin-top: 5px;
+}
+footer a{
+    color: #503093;
+}
